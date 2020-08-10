@@ -1,12 +1,8 @@
 # YongWeb
 Chord_Yong's Web
 
-Hello :)
-
-Welcome to my YongWeb Repo
-
-This is my first challenge for 1 commit by 1 day !!
-
-Please cheer up for me
-
+Hello :) <br>
+Welcome to my YongWeb Repo <br>
+This is my first challenge for 1 commit by 1 day !! <br>
+Please cheer up for me <br>
 Thx !
